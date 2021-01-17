@@ -20,4 +20,6 @@ print(dir(myFunc))
 
 print(insp.getmodule(myFunc) )
 
+
+
 print(callable(myFunc))
