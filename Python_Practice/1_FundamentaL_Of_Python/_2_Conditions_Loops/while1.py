@@ -9,7 +9,6 @@ while True:
 
     print("Hello, {0}".format(name))
 
-name
 
 name.isnumeric 
 print(name.isnumeric)

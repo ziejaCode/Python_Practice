@@ -11,5 +11,5 @@ for num in range(len(fruits)):
 # enumearate is much cleaner 
 s = 'hello'
 
-for i, c in enumerate(s):
+for i, c in enumerate(fruits):
     print(i, c)
