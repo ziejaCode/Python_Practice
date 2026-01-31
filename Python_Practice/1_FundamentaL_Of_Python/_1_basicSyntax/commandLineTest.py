@@ -1,7 +1,7 @@
 #this is command line test script
 #
 # Write this line in terminal - python test.py arg1 arg2 arg3
-#
+# test
 
 import sys
 
